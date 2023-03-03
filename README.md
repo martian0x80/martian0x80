@@ -1,7 +1,5 @@
-### Hi there 👋
-
 # 💫 About Me:
-I'm a geek who loves to play with numbers, codes, and penguins. I'm interested in information security, mathematics, cryptography, and linux. I enjoy breaking and making things, especially if they involve encryption or algorithms. I also like to tinker with open source software and contribute to the community. If you share my passions or want to learn more about them, feel free to follow me or send me a message. I promise I won't hack you (unless you ask me nicely).<br> I am trying to learn about reverse engineering and windows malware development, because I think windows is evil and deserves to be hacked. Just kidding! Or am I? 😈<br>
+Hi there! <br>I'm a geek who loves to play with numbers, codes, and penguins. I'm interested in information security, mathematics, cryptography, and linux. I enjoy breaking and making things, especially if they involve encryption or algorithms. I also like to tinker with open source software and contribute to the community. If you share my passions or want to learn more about them, feel free to follow me or send me a message. I promise I won't hack you (unless you ask me nicely).<br> I am trying to learn about reverse engineering and windows malware development, because I think windows is evil and deserves to be hacked. Just kidding! Or am I? 😈<br>
 
 
 # 💻 Tech Stack:
@@ -13,9 +11,6 @@ I'm a geek who loves to play with numbers, codes, and penguins. I'm interested i
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=martian0x80&icon=5&color=9)](https://visitcount.itsvg.in)
