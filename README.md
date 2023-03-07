@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! <br>I'm a geek who loves to play with numbers, codes, and penguins. I'm interested in information security, mathematics, cryptography, and linux. I enjoy breaking and making things, especially if they involve encryption or algorithms. I also like to tinker with open source software and contribute to the community. If you share my passions or want to learn more about them, feel free to follow me or send me a message. I promise I won't hack you (unless you ask me nicely).<br> I am trying to learn about reverse engineering and windows malware development, because I think windows is evil and deserves to be hacked. Just kidding! Or am I? 😈<br>
+Hi there!<br>Just your average developer and reverse engineer.<br>Interested in cryptography, infosec, reverse engineering, mathematics, and what not.
 
 
 # 💻 Tech Stack:
@@ -8,11 +8,3 @@ Hi there! <br>I'm a geek who loves to play with numbers, codes, and penguins. I'
 ![](https://github-readme-stats.vercel.app/api?username=martian0x80&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=martian0x80&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martian0x80&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=martian0x80&icon=5&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
