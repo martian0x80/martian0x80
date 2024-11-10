@@ -2,7 +2,7 @@
 
 
 <div align="left">
-Just your friendly neighborhood developer and reverse engineer. nterested in Backend Development, Data Engineering, DevOps, Computational Mathematics, Distributed Systems, and Reverse Engineering. I also enjoy solving puzzles and ricing my Linux distros for fun. Languages I often write in are C#, C++, C, Python, Go, and shell-scripting.
+Just your friendly neighborhood developer and reverse engineer. Interested in Backend Development, Data Engineering, DevOps, Computational Mathematics, Distributed Systems, and Reverse Engineering. I also enjoy solving puzzles and ricing my Linux distros for fun. Languages I often write in are C#, C++, C, Python, Go, and shell-scripting.
 </div>
 <br/>
 
