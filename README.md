@@ -1,5 +1,9 @@
-### About Me:
-Hi there!<br>Just your friendly neighborhood developer and reverse engineer.<br>I'm deeply interested in Backend Development, Data Engineering, DevOps, Computational Mathematics, Distributed Systems, and Reverse Engineering. I also enjoy solving puzzles and ricing my Linux distros for fun.<br>Languages I often write in are C#, C++, C, Python, Go, and shell-scripting.
+<h1 align="center">Hi 👋, I'm martian0x80</h1>
+
+<div align="left">
+Just your friendly neighborhood developer and reverse engineer. nterested in Backend Development, Data Engineering, DevOps, Computational Mathematics, Distributed Systems, and Reverse Engineering. I also enjoy solving puzzles and ricing my Linux distros for fun. Languages I often write in are C#, C++, C, Python, Go, and shell-scripting.
+</div>
+
 
 ### Currently Reading:
 1. *Unix and Linux System Administration Handbook* by Evi Nemeth, Garth Snyder
