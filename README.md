@@ -47,8 +47,8 @@ I use ~Fedora~ Arch btw.
     </td> -->
 <td colspan="2" style="text-align: end;">
   <div style="display: flex; justify-content: flex-end; align-items: flex-end; width: 100%; gap: 0px;">
-    <a href="https://github.com/martian0x80/" style="width: 600px; flex: 0 0 600px;">
-      <img align="left" style="width: 600px; height: auto;" src="https://wakatime.com/share/@martian0x80/0d5ef149-2250-411e-ace1-b4d6a81df480.svg">
+    <a href="https://github.com/martian0x80/" style="width: 500px; flex: 0 0 500px;">
+      <img align="left" style="width: 500px; height: auto;" src="https://wakatime.com/share/@martian0x80/0d5ef149-2250-411e-ace1-b4d6a81df480.svg">
     </a>
     <div style="display: flex; justify-content: flex-end; align-items: flex-end;">
       <img align="right" src="https://github.com/user-attachments/assets/541148a8-f6e1-4d57-ba34-af5090b152d3" 
