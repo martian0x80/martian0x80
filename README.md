@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm martian0x80</h1>
+<h1 align="center">Hi <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />, I'm martian0x80</h1>
+
 
 <div align="left">
 Just your friendly neighborhood developer and reverse engineer. nterested in Backend Development, Data Engineering, DevOps, Computational Mathematics, Distributed Systems, and Reverse Engineering. I also enjoy solving puzzles and ricing my Linux distros for fun. Languages I often write in are C#, C++, C, Python, Go, and shell-scripting.
 </div>
+<br/>
+
+Anilist - https://anilist.co/user/martian0x80/animelist
 
 
 ### Currently Reading:
@@ -41,9 +45,21 @@ I use ~Fedora~ Arch btw.
         </tr>
       </table>
     </td> -->
-		<td colspan="2" style="text-align: center"><a href="https://github.com/martian0x80/"><img style="width: 600px; height: auto;" src="https://wakatime.com/share/@martian0x80/0d5ef149-2250-411e-ace1-b4d6a81df480.svg"></a></td>
+<td colspan="2" style="text-align: end;">
+  <div style="display: flex; justify-content: flex-end; align-items: flex-end; width: 100%; gap: 0px;">
+    <a href="https://github.com/martian0x80/" style="width: 600px; flex: 0 0 600px;">
+      <img align="left" style="width: 600px; height: auto;" src="https://wakatime.com/share/@martian0x80/0d5ef149-2250-411e-ace1-b4d6a81df480.svg">
+    </a>
+    <div style="display: flex; justify-content: flex-end; align-items: flex-end;">
+      <img align="right" src="https://github.com/user-attachments/assets/541148a8-f6e1-4d57-ba34-af5090b152d3" 
+           style="height: 300px; width: auto;">
+    </div>
+  </div>
+</td>
 	</tr>
-	</table>
+</table>
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=martian0x80&label=Profile%20Views&icon=1&pretty=true" />
-</a>
+</a> 
+
+<img src="https://imgur.com/rilHVxA.png"/>
