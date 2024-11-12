@@ -15,7 +15,7 @@ Anilist - https://anilist.co/user/martian0x80/animelist
 3. *Introduction to Algorithms* by Thomas H. Cormen
 4. *Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats* by Alex Matrosov, Eugene Rodionov, and Sergey Bratus
 
-I run [dotnotes.xyz](https://www.dotnotes.xyz/) and [ipusenpai.in](https://www.ipusenpai.in/) in my free time. 
+I run [dotnotes.in](https://www.dotnotes.in/) and [ipusenpai.in](https://www.ipusenpai.in/) in my free time. 
 
 Check out my Project Euler: [FriendMe: 1461847_pMnrreCpWtYp7NWJI8ZYem8uPDundpFW]. _I don't do Project Euler anymore._
 
