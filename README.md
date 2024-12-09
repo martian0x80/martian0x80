@@ -21,9 +21,11 @@ Check out my Project Euler: [FriendMe: 1461847_pMnrreCpWtYp7NWJI8ZYem8uPDundpFW]
 
 I use ~Fedora~ Arch btw.
 
-<details>
+<details open>
 <summary>
+	
 # 📊 GitHub Stats:
+
 </summary>
 <table>
 	<tr>
