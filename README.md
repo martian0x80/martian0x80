@@ -21,7 +21,10 @@ Check out my Project Euler: [FriendMe: 1461847_pMnrreCpWtYp7NWJI8ZYem8uPDundpFW]
 
 I use ~Fedora~ Arch btw.
 
+<details>
+<summary>
 # 📊 GitHub Stats:
+</summary>
 <table>
 	<tr>
 		<td colspan = "2"><a href = "https://github.com/martian0x80/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=martian0x80&bg_color=000000&hide_border=true&point=false&line=7fff00&radius=8&area=true&area_color=ddff99&title_color=ffffff&color=ffffff"></a></td>
@@ -58,6 +61,9 @@ I use ~Fedora~ Arch btw.
 </td>
 	</tr>
 </table>
+
+</details>
+
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=martian0x80&label=Profile%20Views&icon=1&pretty=true" />
 </a> 
