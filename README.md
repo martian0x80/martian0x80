@@ -2,11 +2,9 @@
 
 
 <div align="left">
-Just your friendly neighborhood developer and reverse engineer. Interested in Backend Development, Data Engineering, DevOps, Computational Mathematics, Distributed Systems, and Reverse Engineering. I also enjoy solving puzzles and ricing my Linux distros for fun. Languages I often write in are C#, C++, C, Python, Go, and shell-scripting.
+Just your friendly neighborhood developer and reverse engineer. Interested in Backend Development, Data Engineering, DevOps, Computational Mathematics, Distributed Systems, and Reverse Engineering. I also enjoy solving puzzles and ricing my Linux distros for fun. Languages I often write in are C#, C++, C, Python, Go, Rust and shell-scripting.
 </div>
 <br/>
-
-Anilist - https://anilist.co/user/martian0x80/animelist
 
 
 ### Currently Reading:
@@ -15,13 +13,13 @@ Anilist - https://anilist.co/user/martian0x80/animelist
 3. *Introduction to Algorithms* by Thomas H. Cormen
 4. *Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats* by Alex Matrosov, Eugene Rodionov, and Sergey Bratus
 
-I run [dotnotes.in](https://www.dotnotes.in/) and [ipusenpai.in](https://www.ipusenpai.in/) in my free time. 
+I run [crunchycomments.com](https://crunchycomments.com/), [dotnotes.in](https://www.dotnotes.in/) and [ipusenpai.in](https://www.ipusenpai.in/) in my free time. 
 
 Check out my Project Euler: [FriendMe: 1461847_pMnrreCpWtYp7NWJI8ZYem8uPDundpFW]. _I don't do Project Euler anymore._
 
 I use ~Fedora~ Arch btw.
 
-<details open>
+<details close>
 <summary>
 	
 # 📊 GitHub Stats:
